@@ -1,4 +1,4 @@
-# ejercicios-012901440291-ipppd.py sñlkvnñvld´ln
+# ejercicios-02-ipppd.py
 # Introducción a la Programación con Python y los Paradigmas de Datos
 
 # Práctica 1: Introducción a Python
