@@ -6,6 +6,8 @@
 ### COMPRESION
 ### [(p,n) for n in range(6) for p in palabras if len(p) == n]
 
+#ISSUE#
+
 # -----------
 # EJERCICIO 1
 # -----------
